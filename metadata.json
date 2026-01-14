@@ -1,0 +1,7 @@
+{
+  "name": "Forge Droid CNC",
+  "description": "Professional Raster-to-Vector conversion tool for CNC preparation with AI-assisted analysis and smart optimization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
